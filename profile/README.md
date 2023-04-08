@@ -4,7 +4,7 @@
 
 ## Start Here
 - [**📚 Assignments**](https://github.com/tomatsolihull/assignments)  
-   An organised collection of all my finished assignment work. Also includes links to projects relating to specific units and assignments.
+   An organised collection of all my finished assignment work. Also includes links to projects relating to specific units and assignments. See also: [my assignment tracker built with Notion](https://github.com/tomatsolihull/notion-assignment-tracker/blob/master/README.md)
 - [**📝 Notes**](https://github.com/tomatsolihull/notes)  
    My [Obsidian](https://obsidian.md/) notebook covering many topics covered in the qualification.
 
