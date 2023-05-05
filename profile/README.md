@@ -1,5 +1,5 @@
 # Tom At Solihull
-👋 Welcome! This is a place for me, [@itsmeimtom](https://github.com/itsmeimtom), to organise work undertaken while studying a [Pearson EdExcel BTEC Nationals Level 3 Extended Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-nationals/it-2010.html) (what a mouthful!) at [Solihull College](https://solihull.ac.uk).  
+👋 Welcome! This is a place for me, [@itsmeimtom](https://github.com/itsmeimtom), to organise work undertaken while studying a [BTEC Nationals Level 3 Extended Diploma in IT](https://qualifications.pearson.com/en/qualifications/btec-nationals/it-2010.html), Networking and System Support (what a mouthful!) at [Solihull College](https://solihull.ac.uk).  
 All work and content here was created and completed between September 2021 and Early May 2023.
 
 ## Start Here
