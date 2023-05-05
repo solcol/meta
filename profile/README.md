@@ -15,7 +15,7 @@ All work and content here was created and completed between September 2021 and E
 ## See Also
 You may also be interested in my classmate [George](https://github.com/gxorge)'s work, available [here](https://github.com/georgeatsolihull). Mine is obviously better though.
 
-My GitHub account is @itsmeimtom. You can find more information about me on [my website](https://thomasr.me).
+My GitHub account is [@itsmeimtom](https://github.com/itsmeimtom). You can find more information about me on [my website](https://thomasr.me).
 
 ## Thanks
 A special thanks goes out to my lovely classmates—too many to list here—as well as Solihull's excellent tutors, both pastoral and in Computing: Neil, Chris, James, Noreen, Mike, and Shaista.
