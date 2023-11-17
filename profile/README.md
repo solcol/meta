@@ -9,9 +9,11 @@ All work and content here was created and completed between September 2021 and E
    My [Obsidian](https://obsidian.md/) notebook covering many topics covered in the qualification. I didn't end up taking as many notes as I had perhaps expected to.
 
 ## See Also
-You may also be interested in my classmate [George](https://github.com/gxorge)'s work, available [here](https://github.com/georgeatsolihull). Mine is obviously better though.
+😜 You may also be interested in my classmate [George](https://github.com/gxorge)'s work, available [here](https://github.com/georgeatsolihull). Mine is obviously better though.
 
-My GitHub account is [@itsmeimtom](https://github.com/itsmeimtom). You can find more information about me on [my website](https://thomasr.me).
+👤 My GitHub account is [@itsmeimtom](https://github.com/itsmeimtom). You can find more information about me on [my website](https://thomasr.me).
+
+🎓 Work from my time at University can be found in the [tomatport org](https://github.com/tomatport).
 
 ## Thanks
-A special thanks goes out to my lovely classmates—too many to list here—as well as Solihull's excellent tutors, both pastoral and in Computing: Neil, Chris, James, Noreen, Mike, and Shaista.
+🙏 A special thanks goes out to my lovely classmates—too many to list here—as well as Solihull's excellent tutors, both pastoral and in Computing: Neil, Chris, James, Noreen, Mike, and Shaista.
